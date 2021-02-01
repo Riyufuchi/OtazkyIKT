@@ -5,7 +5,9 @@
 * Software, ktrý nám umožnuje práci s HW 
 * Sprostředkovává pracovní plochu/prostředí
 
-### Licence
+## Licence
 
 * Open-Source (Linux)
 * Placené (Windows)
+* Apple SLA [Placená] (MAC-OS)
+
