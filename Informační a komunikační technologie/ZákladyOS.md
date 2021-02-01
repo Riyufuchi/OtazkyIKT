@@ -2,7 +2,7 @@
 
 ## Obecně
 
-* Software, ktrý nám umožnuje práci s HW 
+* Software, který nám umožnuje práci s HW 
 * Sprostředkovává pracovní plochu/prostředí
 
 ## Licence
