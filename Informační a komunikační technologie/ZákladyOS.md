@@ -38,8 +38,33 @@
 
 ## Registery
 
-## Další Info
+## Další Info a Pojmy
 
 * Bootovani - stav OS při zapínání
-* Procesy - 
-* Instrucke - jak má PC vykonávat úlohy/procesy
+* Proces - nějaká aktivita na pozadí/jednotlivé aplikace 
+* Instrucke - jak má PC vykonávat úlohy/procesy (V procesoru nebo chipsetu)
+* Služby - části programu/programy co běží celou dobu od startu na pozadí OS (Apache, atd.)
+* Organizace paměti - Stránkovací soubor - odložižtě dat pro neaktivní programy z RAMky
+
+## Souborové systémy
+
+* Organizují ukládání souborů na disku
+* Fat, xFat, Fat32
+* NSTF
+* Swap, ex1...
+
+## Zabezpečení
+
+### Obecně
+
+* Antivirus
+* Firewall
+* Aktualizace
+* Zabezpečit stanici (Fyzicky)
+* Hesla
+* Zodpovědnost (nestahovat nedůveryhodné podezřelé stránky)
+* Opravnění uživatelů
+
+### Rozšířené
+
+* VPN
