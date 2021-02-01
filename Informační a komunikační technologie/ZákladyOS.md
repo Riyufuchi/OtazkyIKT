@@ -36,7 +36,7 @@
 * Ovládá se myší nebo dotykovým displayem
 * Zatěžuje zlehka GPU
 
-## Registery
+## Register
 
 ## Další Info a Pojmy
 
