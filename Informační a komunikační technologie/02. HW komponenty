@@ -1,0 +1,69 @@
+# Hardwarove komponenty
+
+## Základní rozdělení
+
+* Interní - Komponenty
+* Externí - Periferie
+
+## Jednotlivé komponenty
+
+### Case - Počítačová skříň 
+
+* Ochraňuje intetní hardware před prachem a poškozením 
+#### Různé formáty
+
+##### Tower 
+
+* Na stojato
+* 3 Základní velkosti - MicroTower, MiddleTower, BigTower
+
+##### Desktop 
+
+* Na stojato
+* Umístění na stůl, čaasto měl nostnost i na monitor, který na něm stal
+
+##### Rack
+
+* Pro servery
+
+### Zdroj
+
+* Usměrnňuje střídavý proud na stejnosměrný
+* Transformuje napětí z 230V na 12V, 5V a 3.3V
+* Konektory: 20+4pin, 6+2pin, sata, molex, floppy, 4pin
+* Formáty: nejčastější ATX, AT, BTX, atd.
+
+### Základní deska
+
+* Propuje všehny interní komponenty
+* Obsohuje Bios
+* Konectory: Socket - CPU
+             PCI-E - GPU
+             PCI - např.: zvukovka
+             Patice - RAM
+             SATA, M.2: pro disky
+* Chipset se dělí na Servení a Jižní můstek
+
+### CPU
+
+#### Rozdělení
+
+##### Dle použití
+
+* Klasické - Desktop, NTB...
+* Serverové - jsou více zamměřeny na vysoký počet jader a enegetickou efektivitu
+* Mobilní - ARM
+
+##### Výrobce
+
+* AMD
+* Intel
+
+##### Architektura
+
+* Dvě hlavní - X86 a ARM
+
+#### Typ socketů
+
+* LGA - Intel
+* PGA - AMD - diry na piny
