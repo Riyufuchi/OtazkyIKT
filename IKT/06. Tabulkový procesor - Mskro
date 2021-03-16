@@ -1,0 +1,9 @@
+# Makra
+* Slouží k automatizaci práce, tudíž jejímu zrychlení
+* Makra můžeme nahrát nebo naprogromavat ve VBA (prg. jazyk Visual Basic)
+
+## Nahrávání maker
+
+## Programování maker
+* Musíme povolik v pásu karet, kartu vývojář
+* Makro, které naprogramujeme, slouží jako podprogram, který můžeme zavolat např. tlačítkem 
