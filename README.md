@@ -9,7 +9,7 @@
  </tr>
  <tr>
 	  <td>Zpracované otázky na PRG</td>
-	  <th>80%</th>
+	  <th>100%</th>
  </tr>
  <tr>
 	  <td>Zpracované otázky na PVY</td>
