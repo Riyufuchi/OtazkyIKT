@@ -8,11 +8,11 @@
 	<th>Postup</th>
  </tr>
  <tr>
-	  <td>Zpracované otázky na PRG</td>
+	  <td>Maturitní otázky na PRG</td>
 	  <th>100%</th>
  </tr>
  <tr>
-	  <td>Zpracované otázky na PVY</td>
+	  <td>Maturitní otázky na IKT</td>
 	  <th>?%</th>
  </tr>
  <tr>
