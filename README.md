@@ -13,7 +13,7 @@
  </tr>
  <tr>
 	  <td>Maturitní otázky na IKT</td>
-	  <th>?%</th>
+	  <th>5%</th>
  </tr>
  <tr>
 	  <td>Příklady na praktické PRG</td>
