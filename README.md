@@ -1,5 +1,5 @@
 # Příprava na odbornou/profilovou část maturity
-<table>
+<table align="center">
  <tr>
 	  <th>Obsahuje</th>
 	  <th colspan="2">Postup</th>
