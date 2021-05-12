@@ -1,11 +1,12 @@
 # Příprava na odbornou/profilovou část maturity
 <table>
  <tr>
-	  <th colspan="3">Obsahuje</th>
+	  <th>Obsahuje</th>
+	  <th colspan="2">Postup</th>
  </tr>
  <tr>
 	<th>Sekce</th>
-	<th>Postup</th>
+	<th>%</th>
 	<th>
 	 	:one:
 		:two:
