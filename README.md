@@ -1,5 +1,8 @@
-<h1 align="center"> Příprava na odbornou/profilovou část maturity</h1>
+
 <table align="center">
+ <tr>
+	<th colspan="3">Příprava na odbornou/profilovou část maturity</th>
+ </tr>	 
  <tr>
 	  <th>Obsahuje</th>
 	  <th colspan="2">Postup</th>
