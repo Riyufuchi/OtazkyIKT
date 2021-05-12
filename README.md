@@ -1,4 +1,4 @@
-# Příprava na odbornou/profilovou část maturity
+<h1 align="center"> Příprava na odbornou/profilovou část maturity</h1>
 <table align="center">
  <tr>
 	  <th>Obsahuje</th>
