@@ -21,3 +21,5 @@
 | 18     | &#9744;    | &#9744;    |
 | 19     | &#9744;    | &#9744;    |
 | 20     | &#9744;    | &#9744;    |
+# Vložení obrázku
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Riyufuchi/OtazkyIKT/blob/master/Assets/Pictures/kernel-hiearchy.png"><img src="https://github.com/Riyufuchi/OtazkyIKT/blob/master/Assets/Pictures/kernel-hiearchy.png" alt="ArchitekturaAndroid" height="550" style="max-width:100%;"></a>
