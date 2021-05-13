@@ -21,7 +21,7 @@
 	</th>
  </tr>
  <tr>
-	  <td>Maturitní otázky na PRG</td>
+	  <td align="center">Maturitní otázky na PRG</td>
 	  <th>100%</th>
 	  <th>
 	  	  :large_blue_circle:
@@ -37,7 +37,7 @@
 	  </th>
  </tr>
  <tr>
-	  <td>Maturitní otázky na IKT</td>
+	  <td align="center">Maturitní otázky na IKT</td>
 	  <th>10%</th>
 	  <th>
 	  	  :large_blue_circle:
@@ -53,12 +53,12 @@
 	  </th>
  </tr>
  <tr>
-	  <td>Příklady na praktické PRG</td>
-	  <th>20%</th>
+	  <td align="center">Příklady na praktické PRG</td>
+	  <th>30%</th>
 	  <th>
 	  	:large_blue_circle:
 		:large_blue_circle:
-		:black_circle:
+		:large_blue_circle:
 		:black_circle:
 		:black_circle:
 		:black_circle:
