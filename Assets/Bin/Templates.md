@@ -1,4 +1,4 @@
-## TODO - Template
+# TODO - Template
 | Otázka | Zpracována | Zopakována |
 | :----: | :--------: | :--------: |
 | 1      | &#9744;    | &#9744;    |
@@ -21,5 +21,9 @@
 | 18     | &#9744;    | &#9744;    |
 | 19     | &#9744;    | &#9744;    |
 | 20     | &#9744;    | &#9744;    |
+
 # Vložení obrázku
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Riyufuchi/OtazkyIKT/blob/master/Assets/Pictures/kernel-hiearchy.png"><img src="https://github.com/Riyufuchi/OtazkyIKT/blob/master/Assets/Pictures/kernel-hiearchy.png" alt="ArchitekturaAndroid" height="550" style="max-width:100%;"></a>
+
+# Odkaz
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Riyufuchi/OtazkyIKT/blob/master/Assets/Pictures/kernel-hiearchy.png"> Odkaz na kernel-hiearchy.png</a>
