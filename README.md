@@ -54,12 +54,12 @@
  </tr>
  <tr>
 	  <td align="center">Příklady na praktické PRG</td>
-	  <th>30%</th>
+	  <th>40%</th>
 	  <th>
 	  	:large_blue_circle:
 		:large_blue_circle:
 		:large_blue_circle:
-		:black_circle:
+		:large_blue_circle:
 		:black_circle:
 		:black_circle:
 		:black_circle:
