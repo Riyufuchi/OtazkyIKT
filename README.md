@@ -38,7 +38,7 @@
  </tr>
  <tr>
 	  <td align="center">Maturitní otázky na IKT</td>
-	  <th>90%</th>
+	  <th>100%</th>
 	  <th>
 	  	  :large_blue_circle:
 		  :large_blue_circle:
@@ -49,7 +49,7 @@
 		  :large_blue_circle:
 		  :large_blue_circle:
 		  :large_blue_circle:
-		  :black_circle:
+		  :large_blue_circle:
 	  </th>
  </tr>
  <tr>
